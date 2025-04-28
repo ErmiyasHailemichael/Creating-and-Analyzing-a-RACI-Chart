@@ -102,6 +102,7 @@ The chart is well balanced and supports smooth project execution.
 5. Fill each cell with R, A, C, or I based on the RACI Chart.
 6. Save and tag team members (if applicable) for transparency.
 
+
 ---
 
 ### Where to Embed the RACI Chart
