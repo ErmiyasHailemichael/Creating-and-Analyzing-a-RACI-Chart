@@ -98,7 +98,7 @@ The chart is well balanced and supports smooth project execution.
 3. Set up the table:
    - **Rows:** 11 (10 tasks + 1 header row)
    - **Columns:** 7 (6 roles + 1 task column)
-4. First row (headers) = Task | Ermiyas | Sofia | Dr. Mark | Liam | Hana | Marta
+4. First row (headers) = Task | Ermiyas | Fre | Dr. Elesa | Solomon | Tsegay | Medi
 5. Fill each cell with R, A, C, or I based on the RACI Chart.
 6. Save and tag team members (if applicable) for transparency.
 
@@ -119,5 +119,3 @@ The chart is well balanced and supports smooth project execution.
 This project demonstrates the practical creation of a RACI chart for a real-life trip to Ethiopia, applying structured project management techniques to enhance planning, communication, and accountability.
 
 ---
-
-
