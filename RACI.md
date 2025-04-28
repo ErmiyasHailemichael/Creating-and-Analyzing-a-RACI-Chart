@@ -60,8 +60,64 @@
 
 ---
 
-## 📄 About This Project
+## 📋 Part 2: RACI Chart Analysis
 
-This project demonstrates the practical creation of a RACI chart for a real-life trip to Ethiopia, applying structured project management techniques to enhance planning and communication.
+### Step 4: Analyze Your Chart and Identify Gaps
+
+✅ **Gaps:**
+- No task is missing a Responsible (R) or Accountable (A) role.
+
+✅ **Overlaps:**
+- Only reasonable overlaps (for example, the Traveler has several R’s, which is expected).
+
+✅ **Balance:**
+- Ermiyas has most R’s, which makes sense — the traveler does most of the work.
+- Financial Advisor Solomon is only heavy on Financial Preparation — balanced overall.
+- Local Contact Tsegay mainly supports local tasks.
+
+✅ **Consultation:**
+- C’s are used correctly, mostly for supportive guidance (Fre, Dr. Elesa, Tsegay).
+
+✅ **Information Flow:**
+- Emergency Contact Medi is informed (I) for almost every major task, ensuring communication.
 
 ---
+
+### ✅ Final Conclusion:
+No major changes were needed.  
+The chart is well balanced and supports smooth project execution.
+
+---
+
+## 📋 Part 3: Integration into Confluence (or Google Docs)
+
+### Steps to Add the RACI Chart
+
+1. Open the relevant Confluence project page.
+2. Click **Insert** > **Table**.
+3. Set up the table:
+   - **Rows:** 11 (10 tasks + 1 header row)
+   - **Columns:** 7 (6 roles + 1 task column)
+4. First row (headers) = Task | Ermiyas | Sofia | Dr. Mark | Liam | Hana | Marta
+5. Fill each cell with R, A, C, or I based on the RACI Chart.
+6. Save and tag team members (if applicable) for transparency.
+
+---
+
+### Where to Embed the RACI Chart
+
+- **Project Planning Document:**  
+  So everyone involved sees task breakdowns before the trip.
+
+- **Emergency Plan Document:**  
+  So critical roles (especially Marta's role) are clear if emergencies happen.
+
+---
+
+# 📄 About This Project
+
+This project demonstrates the practical creation of a RACI chart for a real-life trip to Ethiopia, applying structured project management techniques to enhance planning, communication, and accountability.
+
+---
+
+
