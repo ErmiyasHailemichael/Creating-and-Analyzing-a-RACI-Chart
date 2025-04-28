@@ -75,6 +75,5 @@ I also created a live Google Doc version for easy sharing and editing.
 
 Thank you for watching my presentation!  
 I enjoyed applying project management concepts to a real-life trip.  
-I’m happy to answer any questions if this were a real team setting.
 
 ---
