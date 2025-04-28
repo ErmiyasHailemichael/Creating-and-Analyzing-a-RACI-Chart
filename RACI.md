@@ -14,9 +14,9 @@
 | 4. Obtain Travel Documents | Check passport, apply for visa, vaccinations |
 | 5. Financial Preparation | Currency exchange, budgeting, notify bank |
 | 6. Itinerary Planning | List sites, day-by-day schedule |
-| 7. Pack Essentials | List items, buy travel necessities, buy gifts for family and neigbhors|
+| 7. Pack Essentials | List items, buy travel necessities, buy gifts for family and neighbors |
 | 8. Emergency Planning | Purchase travel insurance, gather emergency contacts |
-| 9. Communication Setup | Buy eSIM card, disconnect from American phone line,  set up international plan |
+| 9. Communication Setup | Buy eSIM card, disconnect from American phone line, set up international plan |
 | 10. Departure/Arrival Coordination | Check-in, airport process, arrival meet-up |
 
 ---
@@ -37,7 +37,7 @@
 ## 🗂️ Step 3: RACI Chart Table
 
 | Task | Ermiyas (Traveler) | Fre (Travel Agent) | Dr. Elesa (Doctor) | Solomon (Financial Advisor) | Tsegay (Local Contact) | Medi (Emergency Contact) |
-|:-----|:------------------|:--------------------|:-----------------|:-------------------------|:---------------------|:--------------------------|
+|:-----|:------------------|:------------------|:------------------|:----------------------------|:-----------------------|:--------------------------|
 | Book Flights | A/R | C | I | I | I | I |
 | Arrange Accommodation | A/R | C | I | I | I | I |
 | Plan Transportation | A | C | I | I | R | I |
@@ -93,7 +93,7 @@ The chart is well balanced and supports smooth project execution.
 
 ### Steps to Add the RACI Chart
 
-1. Open the relevant Confluence project page.
+1. Open the relevant Confluence project page or Google Doc.
 2. Click **Insert** > **Table**.
 3. Set up the table:
    - **Rows:** 11 (10 tasks + 1 header row)
@@ -102,7 +102,8 @@ The chart is well balanced and supports smooth project execution.
 5. Fill each cell with R, A, C, or I based on the RACI Chart.
 6. Save and tag team members (if applicable) for transparency.
 
- - [Google Doc](https://docs.google.com/document/d/1ZWfP4xLpaPZmWzL1a8KMxhZIQWTmnXHyeadGOjrS3MU/edit?usp=sharing)
+📄 [View the Google Doc version here](https://docs.google.com/document/d/1ZWfP4xLpaPZmWzL1a8KMxhZIQWTmnXHyeadGOjrS3MU/edit?usp=sharing)
+
 ---
 
 ### Where to Embed the RACI Chart
@@ -111,7 +112,7 @@ The chart is well balanced and supports smooth project execution.
   So everyone involved sees task breakdowns before the trip.
 
 - **Emergency Plan Document:**  
-  So critical roles (especially Marta's role) are clear if emergencies happen.
+  So critical roles (especially Medi's role) are clear if emergencies happen.
 
 ---
 
